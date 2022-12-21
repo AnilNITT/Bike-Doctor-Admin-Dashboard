@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/dashboard"
+  to = "/index.html"
+  status = 200
